@@ -1,38 +1,60 @@
-# Hi there, I'm Fazal Memon 👋  
+<h1 align="center">Hi there 👋, I'm Fazal Memon</h1>
+<h3 align="center">🚀 Computer Engineering Student | Backend Developer | DevOps & Cloud Enthusiast</h3>
 
-🚀 **Engineering Student | MERN Stack Developer | AI & ML Enthusiast**  
-
-I love building impactful projects, solving problems through code, and exploring the intersection of AI, web development, and real-world applications.  
-
----
-
-## 🛠 Tech Stack  
-- **Languages:** JavaScript, Python, C++, C  
-- **Frontend:** React.js, HTML, CSS, TailwindCSS, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, MySQL  
-- **AI/ML:** TensorFlow, scikit-learn, OpenCV  
-- **Other Tools:** Git, GitHub, Docker  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FazalDevs&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazalDevs&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FazalDevs&layout=compact&theme=radical)  
+## 💫 About Me
+- 🎓 ICT student at **Pandit Deendayal Energy University, Gujarat**
+- 💻 Skilled in **C++, Python, JavaScript**
+- 🖥 Backend Developer passionate about building scalable apps
+- 🎯 Always eager to learn new tools & technologies
 
 ---
 
-## 🌟 Featured Projects  
-- [🚗 Carpooling App](https://github.com/FazalDevs/carpooling-app) – MERN-based platform to connect students for shared rides.  
-- [🧠 Mental Health Companion](https://github.com/FazalDevs/mental-health-companion) – AI-powered mental health journaling and tracking tool.  
-- [🔬 Skin Cancer Detection](https://github.com/FazalDevs/skin-cancer-detection) – TensorFlow-based deep learning project for early diagnosis.  
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fazalmemon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react)](https://fazalmemon.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fazalmemon@example.com)
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fazalmemon)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react)](https://fazalmemon.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fazalmemon@example.com)  
+## 💻 Tech Stack
+**Languages:**  
+`C` `Java` `Python` `JavaScript`  
+
+**Frontend:**  
+`HTML5` `CSS3` `React` `Bootstrap`  
+
+**Backend:**  
+`Node.js` `Express.js` `Flask`  
+
+**Databases:**  
+`MongoDB` `MySQL`  
+
+**Data Science:**  
+`NumPy` `Pandas` `Matplotlib`  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FazalDevs&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazalDevs&layout=compact&theme=radical" alt="top languages" height="165"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FazalDevs&theme=dracula&no-frame=true&margin-w=15&row=1" alt="trophies"/>
+</p>
+
+---
+
 
 ---
 
