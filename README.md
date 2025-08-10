@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mohd Fazal Memon</h1>
-<h3 align="center">🚀 ICT Student | Full Stack Developer </h3>
+<h3 align="center">🚀 ICT Student | Full Stack Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FazalDevs&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -20,7 +23,7 @@
 
 ## 💻 Tech Stack
 **Languages:**  
-`C` `Java` `Python` `JavaScript`  
+`C` `C++` `Python` `JavaScript`  
 
 **Frontend:**  
 `HTML5` `CSS3` `React` `Bootstrap`  
@@ -38,8 +41,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FazalDevs&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazalDevs&layout=compact&theme=radical" alt="top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FazalDevs&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazalDevs&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=FazalDevs&theme=radical" alt="streak stats" height="165"/>
+</p>
+
+---
+
+## 🗺 Contribution Heatmap
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FazalDevs&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -48,9 +65,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FazalDevs&theme=dracula&no-frame=true&margin-w=15&row=1" alt="trophies"/>
 </p>
-
----
-
 
 ---
 
