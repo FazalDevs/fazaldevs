@@ -16,9 +16,8 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fazalmemon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react)](https://fazalmemon.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fazalmemon@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fazal-memon)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohdfazalrm786@example.com)
 
 ---
 
