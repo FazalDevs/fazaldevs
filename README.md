@@ -10,7 +10,7 @@
 ## 💫 About Me
 - 🎓 ICT student at **Pandit Deendayal Energy University, Gujarat**
 - 💻 Skilled in **C++, Python, JavaScript**
-- 🖥 Backend Developer passionate about building scalable apps
+- 🖥 Full stack Developer passionate about building scalable apps
 - 🎯 Always eager to learn new tools & technologies
 
 ---
