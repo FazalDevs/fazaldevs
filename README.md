@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohd Fazal Memon</h1>
-<h3 align="center">🚀 ICT Student | Full Stack Developer</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FazalDevs&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
